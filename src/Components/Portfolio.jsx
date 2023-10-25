@@ -31,28 +31,34 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Peaches Discord Bot",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "AI chat bot with auto-moderation for Discord, enhancing user interaction and server management. The bot was deployed on Heroku and featured user profiles using SQLite.",
+    url: "https://github.com/nekumartins/Peaches",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Traffic Sign Detector",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Neural network using TensorFlow to classify road signs, improving road safety by automating the recognition of signs from images.",
+    url: "https://github.com/nekumartins/AI-With-Python/tree/main/traffic",
   },
   {
-    title: "My Resume Site",
+    title: "NAFSH",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Collaboratively built a basic Unix command line interpreter in C, mimicking the functionality of a standard Unix shell. The project aimed to facilitate command execution in a Unix-like environment",
+    url: "https://github.com/nekumartins/simple_shell",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Remote Nurse",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Designed a model for monitoring hypertension risk, empowering users to assess their health. A Flask-based front-end allowed users to input their data conveniently",
+    url: "https://github.com/nekumartins/Remote-Nurse",
+  },
+  {
+    title: "My Portfolio Website",
+    description:
+      "Created using the react.js library and the next.js framework, Site was deployed on Heroku and the domain is registered on GoDaddy. Includes my experience and my technical skills.",
+    url: "https://www.chukwuneku.com",
   },
 ];
 
